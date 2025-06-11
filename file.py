@@ -522,7 +522,7 @@ def main():
             - **Ensemble Methods**: Kombinasi multiple models
             """)
         with col2:
-            ticker = st.selectbox("📊 Pilih Saham:", ["AAPL", "MSFT", "GOOGL", "AMZN", "TSLA", "NVDA", "META", "QQQ", "SPY", "BTC"])
+            ticker = st.selectbox("📊 Pilih Saham:", ["TLSA","NVDA", "SPY", "QQQ", "BTC", "GME", "SPX", "PLTR", "AAPL", "MSFT", "AMZN", "GOOGL", "META"])
             prediction_days = st.slider("🗓️ Periode Prediksi (hari):", min_value=30, max_value=365, value=180, step=30)
 
         if st.button("🔮 Mulai Prediksi", type="primary"):
