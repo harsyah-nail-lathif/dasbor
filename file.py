@@ -687,7 +687,7 @@ st.markdown("""
         <div class="footer-column">
             <h3>Our Insights</h3>
             <div class="footer-icon">
-                <a href="https://github.com/harsyah-nail-lathif/dashbor.git" target="_blank">
+                <a href="https://github.com/harsyah-nail-lathif/dasbor.git" target="_blank">
                     <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub Icon">
                 </a>
             </div>
