@@ -1,5 +1,3 @@
---upgrade pip
-
 streamlit
 yfinance
 pandas
@@ -8,6 +6,5 @@ matplotlib
 seaborn
 plotly
 scikit-learn
-tensorflow
 nltk
 joblib
