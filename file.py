@@ -678,7 +678,7 @@ st.markdown("""
         <div class="footer-column">
             <h3>Contact Us</h3>
             <div class="footer-icon">
-                <a href="https://forms.gle/your-google-form-link" target="_blank">
+                <a href="https://shorturl.at/lzcAz" target="_blank">
                     <img src="https://img.icons8.com/ios-filled/50/ffffff/new-post.png" alt="Feedback Icon">
                 </a>
             </div>
